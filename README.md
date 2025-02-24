@@ -16,7 +16,6 @@ These notebooks will be continually updated. An outline of the current content i
 If you are using these exercises as part of a course you are teaching, please feel free to clone this repository or download it as a zip file. The solutions can then be hidden in your local version.  
 
 ## Purchasing the Textbook
-The textbook is available from all major retailers. Use code P327 for a 30% discount.
-
+The textbook is available from all major retailers. 
 [<img alt="Marsh et al_Dark Matter discount graphic" src = "https://raw.githubusercontent.com/David-Ellis/David-Ellis.github.io/refs/heads/master/images/other/Marsh%20et%20al_Dark%20Matter_discount%20graphic.jpg" width="500" class="center">](https://press.princeton.edu/books/paperback/9780691249520/dark-matter)
 
